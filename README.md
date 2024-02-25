@@ -4,7 +4,7 @@ Hi 👋 My name is Peerapong Chitwuttichot
 นักศึกษา คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมคอมพิวเตอร์
 --------------------------------------------------
 
-สนใจเกี่ยวกับ Artificial Intelligence , Machine Learning , Deep Learning , Computer Vision , Neural Network , Natural , Language Processing (NLP)
+สนใจเกี่ยวกับ Artificial Intelligence , Machine Learning , Deep Learning , Computer Vision , Neural Network , Natural Language Processing (NLP)
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [non8chaumong@gmail.com](mailto:non8chaumong@gmail.com)
